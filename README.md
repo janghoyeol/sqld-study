@@ -7,6 +7,7 @@
 | 주차 | 범위 | 기록 |
 | --- | --- | --- |
 | 1주차 | 실행 순서 · GROUP BY/HAVING · NULL · JOIN · 서브쿼리 · 집합 연산 | [week1.md](week1.md) |
+| 실전 연습 | 실제 데이터로 비율·평균·객단가 (분모 함정) | [practice.md](practice.md) |
 
 ## 점수 변화
 | 날짜 | 시험 | 결과 |
