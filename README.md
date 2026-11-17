@@ -12,6 +12,7 @@
 | 노랭이 1~60 | 질문 노트 · 긴 지문 연습 · 집합 연산·NULL 정리 | [noraengi.md](noraengi.md) |
 | SQL 활용 | ROLLUP/CUBE · 윈도우 · Top N · 계층형 · PIVOT · 정규식 | [sql-utilization.md](sql-utilization.md) |
 | 노랭이 61~70 | 계층형 조건 위치 · 셀프 조인 누적 · 서브쿼리 연결 조건 | [noraengi-61-70.md](noraengi-61-70.md) |
+| 노랭이 71~80 | 뷰+NULL · 윈도우 범위 · ROLLUP 긴 보기 푸는 법 · GROUPING vs NVL | [noraengi-71-80.md](noraengi-71-80.md) |
 
 ## 점수 변화
 | 날짜 | 시험 | 결과 |
@@ -26,3 +27,5 @@
 | 11-15 | 노랭이 51~60 (SQL 활용) | 6/10 |
 | 11-16 | 51~60 맞춤 11문항 (33분) | 10/11 |
 | 11-16 | 61~70 맞춤 10문항 (35분) | 6/10 |
+| 11-17 | 노랭이 71~80 | 2/10 |
+| 11-17 | ROLLUP 긴 보기 6문항 (설명 후) | 6/6 |
