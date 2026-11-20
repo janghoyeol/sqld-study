@@ -15,6 +15,8 @@
 | 노랭이 71~80 | 뷰+NULL · 윈도우 범위 · ROLLUP 긴 보기 푸는 법 · GROUPING vs NVL | [noraengi-71-80.md](noraengi-71-80.md) |
 | 노랭이 81~98 | CUBE 괄호 덩어리 · LAG/LEAD · 윈도우 기본 개념 · 권한 | [noraengi-81-98.md](noraengi-81-98.md) |
 | 관리 구문 | DML·DDL·DCL·TCL · 제약조건 · FK 참조 동작 · MERGE · 트랜잭션 | [management.md](management.md) |
+| 데이터 모델링 | 모델링·엔터티·속성·관계·식별자 · 정규화 · 자격증 계획 | [modeling.md](modeling.md) |
+| 모의고사 1회 | 실제 시험 형식 50문항 90분 (문제만) | [mock-exam-1.md](mock-exam-1.md) |
 
 ## 점수 변화
 | 날짜 | 시험 | 결과 |
@@ -33,3 +35,5 @@
 | 11-17 | ROLLUP 긴 보기 6문항 (설명 후) | 6/6 |
 | 11-18 | 윈도우 기본 O/X | 4/6 |
 | 11-18 | 관리 구문 맞춤 20문항 (25분) | 17/20 |
+| 11-19 | 노랭이 1과목 1~25 | 19/25 |
+| 11-20 | 정규화 13문항 | 11/13 |
